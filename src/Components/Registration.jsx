@@ -37,7 +37,7 @@ const Registration = () => {
 
         <section className='flex justify-center items-center w-[100%] h-[100vh] bg-gradient-to-r from-green-400 to-blue-500'>
 
-            <form onSubmit={handleSubmit} className='flex items-start flex-col gap-4 w-[400px]' autoComplete='off'>
+            <form onSubmit={handleSubmit} className='flex items-start flex-col gap-4 w-[400px] mx-4 sm:mx-0' autoComplete='off'>
 
                 <h2 className='font-bold text-[40px]'>Sign up</h2>
 

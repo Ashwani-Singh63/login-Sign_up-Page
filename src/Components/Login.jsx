@@ -7,7 +7,7 @@ const Login = () => {
 
     <section className='flex justify-center items-center w-[100%] h-[100vh] bg-gradient-to-r from-green-400 to-blue-500'>
 
-        <form action="" className='flex items-start flex-col gap-4 w-[400px]'>
+        <form action="" className='flex items-start flex-col gap-4 w-[400px] mx-4 sm:mx-0'>
 
             <h2 className='font-bold text-[40px]'>Login</h2>
 
